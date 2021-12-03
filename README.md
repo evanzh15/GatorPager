@@ -1,7 +1,26 @@
-# sign-in-form-react
-Created with CodeSandbox
-Dealing with react events by making a sign in form.
+# GatorPager - Part II
 
-https://codesandbox.io/s/dreamy-bose-e2ksv
+A webpage search visualizer
+
+Time spent: **** hours spent in total
+
+## Milestones
+
+The following **required** functionality is completed:
+
+- [X] Display graph of nodes
+- [X] Fetch updated data of nodes.
+- [X] Write Adjancey List, BFS, and DFS for inserting data points.
+- [X] Wrapping up total project
+
+The following **bonus** features are implemented:
+
+- [ ] Direct users to link.
+
+## Video Walkthrough
+
+https://media.giphy.com/media/2X1sCk5Q7jkXaMU281/giphy.gif
+
+## Link
 
 https://e2ksv.csb.app/
