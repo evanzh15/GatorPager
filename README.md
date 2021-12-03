@@ -19,9 +19,9 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://media.giphy.com/media/2X1sCk5Q7jkXaMU281/giphy.gif" width=700><br>
+<img src="https://media.giphy.com/media/9m6ihDKwOG7SJdkLoF/giphy.gif" width=700><br>
 
-https://media.giphy.com/media/2X1sCk5Q7jkXaMU281/giphy.gif
+
 
 ## Link
 
