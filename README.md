@@ -1,4 +1,4 @@
-# GatorPager - Part II
+# GatorPager
 
 A webpage search visualizer
 
@@ -18,6 +18,8 @@ The following **bonus** features are implemented:
 - [ ] Direct users to link.
 
 ## Video Walkthrough
+
+<img src="https://media.giphy.com/media/2X1sCk5Q7jkXaMU281/giphy.gif" width=700><br>
 
 https://media.giphy.com/media/2X1sCk5Q7jkXaMU281/giphy.gif
 
