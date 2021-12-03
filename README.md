@@ -9,9 +9,9 @@ Time spent: **** hours spent in total
 The following **required** functionality is completed:
 
 - [X] Display graph of nodes
-- [] Fetch updated data of nodes.
-- [] Write Adjancey List, BFS, and DFS for inserting data points.
-- [] Wrapping up total project
+- [ ] Fetch updated data of nodes.
+- [ ] Write Adjancey List, BFS, and DFS for inserting data points.
+- [ ] Wrapping up total project
 
 The following **bonus** features are implemented:
 
